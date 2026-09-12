@@ -59,7 +59,8 @@ jobs:
     needs: [find_exercise, check_step_work]
     runs-on: ubuntu-latest
     if: |
-      !github.event.repository.is_template
+      !github.event.repository.is_template &&
+      github.event.pull_request.merged == true
     env:
       ISSUE_URL: ${{ needs.find_exercise.outputs.issue-url }}
 
@@ -78,7 +79,8 @@ jobs:
     name: Finish Exercise
     needs: [find_exercise, post_review_content]
     if: |
-      !github.event.repository.is_template
+      !github.event.repository.is_template &&
+      github.event.pull_request.merged == true
     uses: skills/exercise-toolkit/.github/workflows/finish-exercise.yml@v0.1.0
     with:
       issue-url: ${{ needs.find_exercise.outputs.issue-url }}
@@ -88,7 +90,8 @@ jobs:
     name: Disable this workflow
     needs: [find_exercise, post_review_content]
     if: |
-      !github.event.repository.is_template
+      !github.event.repository.is_template &&
+      github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
