@@ -1,0 +1,5 @@
+# Default owners for the entire repository
+*       @TeacherEvan
+
+# Specific ownership for the .github directory
+.github/    @TeacherEvan
