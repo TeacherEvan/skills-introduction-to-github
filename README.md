@@ -49,3 +49,8 @@ In this exercise, you will:
 ---
 
 &copy; 2026 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+---
+
+[![Markdown Lint](https://github.com/TeacherEvan/skills-introduction-to-github/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/TeacherEvan/skills-introduction-to-github/actions/workflows/markdown-lint.yml)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

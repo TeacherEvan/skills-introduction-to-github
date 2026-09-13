@@ -1,0 +1,15 @@
+- name: bug
+  color: d73a4a
+  description: Something is not working
+- name: feature
+  color: 0c51d6
+  description: New feature or request
+- name: documentation
+  color: 0075ca
+  description: Improving docs
+- name: exercise
+  color: 5e5182
+  description: Exercise / lesson content
+- name: good first issue
+  color: 7057ff
+  description: Good for newcomers

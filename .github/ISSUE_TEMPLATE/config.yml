@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Skills exercise toolkit
+    url: https://github.com/skills/exercise-toolkit
+    about: Reusable workflows and templates powering this exercise
