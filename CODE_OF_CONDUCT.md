@@ -62,7 +62,6 @@ version 2.1, available at
 
 [homepage]: https://www.contributor-covenant.org
 
-[Contributor Covenant]: https://www.contributor-covenant.org
 
 For the purposes of this enforcement, the community leaders are the repository
 maintainers, reachable through the issue tracker and the owners listed in
