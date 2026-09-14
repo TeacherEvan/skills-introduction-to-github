@@ -9,6 +9,7 @@
 | `CHANGELOG.md` | Records all notable changes to the repo |
 | `CONTRIBUTING.md` | Human contribution guide (fork → branch → PR → review) |
 | `SECURITY.md` | Security policy, supported versions, vulnerability reporting |
+| `CODE_OF_CONDUCT.md` | Contributor Covenant v2.1 code of conduct, enforcement contact |
 | `LICENSE` | MIT license |
 | `.editorconfig` | Consistent editor settings across IDEs |
 | `.markdownlint.yml` | Markdown lint rules |
