@@ -2,7 +2,7 @@
 
 _Congratulations, you've completed this Exercise and joined the world of developers!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<img src="https://octodex.github.com/images/collabocats.jpg" alt="celebrate" width="300" align="right">
 
 Here's a recap of your accomplishments:
 

@@ -23,7 +23,7 @@ The following steps will guide you through the process of committing a change on
 
 4. In the **Enter file contents here** area, copy the following content to your file:
 
-   ```
+   ```markdown
    Welcome to my GitHub profile!
    ```
 
@@ -32,7 +32,6 @@ The following steps will guide you through the process of committing a change on
 5. Click **Commit changes...** in the upper right corner above the contents box. A dialog will appear.
 
 6. GitHub offers a simple default message, but let's change it slightly for practice. Enter `Add PROFILE.md` in the **Commit message** field.
-   
    - A **commit message** and optional **extended description** help provide clarity for your changes. This is particularly useful when your commit involves several files.
 
    <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/user-attachments/assets/6ab299ce-8039-4734-a707-d7c3cd7077a0">
@@ -46,6 +45,7 @@ The following steps will guide you through the process of committing a change on
 <summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
+
 - Make sure you are on the `my-first-branch` branch.
 - Ensure the `PROFILE.md` file is created and in the root folder.
 

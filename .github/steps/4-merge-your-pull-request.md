@@ -28,6 +28,7 @@ You successfully created a pull request. Now it's time to merge it!
 <summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
+
 - Make sure you completed the previous lessons. If they haven't passed, the merge button will be gray.
 
 </details>

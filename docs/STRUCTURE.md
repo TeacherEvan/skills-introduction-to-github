@@ -1,6 +1,7 @@
 # Repository Structure
 
 ## Root Files
+
 | File | Purpose |
 |------|---------|
 | `README.md` | Exercise overview, start button, learning outcomes |
@@ -14,6 +15,7 @@
 | `.gitignore` | Ignored files (compiled sources, scratch audit dir) |
 
 ## `.github/`
+
 | Path | Purpose |
 |------|---------|
 | `CODEOWNERS` | Default owner `@TeacherEvan` for all paths |
@@ -26,6 +28,7 @@
 | `labels.yml` | Default issue/PR label definitions |
 
 ## `.github/steps/` — Exercise Lesson Content
+
 | File | Purpose |
 |------|---------|
 | `1-create-a-branch.md` | Step 1: what is GitHub, create `my-first-branch` |
@@ -35,6 +38,7 @@
 | `x-review.md` | Final review: recap accomplishments |
 
 ## `.github/workflows/` — Exercise Checker Workflows
+
 | File | Trigger | Purpose |
 |------|---------|---------|
 | `0-start-exercise.yml` | push to `main` | Start exercise, create issue, post step 1 content |

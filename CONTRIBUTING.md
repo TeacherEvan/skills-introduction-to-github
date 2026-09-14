@@ -6,11 +6,14 @@ Thank you for your interest in contributing! This exercise is designed to teach 
 
 1. **Fork** this repository to your own GitHub account.
 2. **Clone** your fork locally:
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/skills-introduction-to-github.git
    cd skills-introduction-to-github
    ```
+
 3. **Create a branch** for your change:
+
    ```bash
    git checkout -b my-first-branch
    ```
@@ -24,9 +27,11 @@ Thank you for your interest in contributing! This exercise is designed to teach 
 ## Opening a Pull Request
 
 1. Push your branch to your fork:
+
    ```bash
    git push origin my-first-branch
    ```
+
 2. Go to the original repository on GitHub and click **Compare & pull request**.
 3. Fill in the pull request template with a summary, related issue (if any), and test steps.
 4. Click **Create pull request**.

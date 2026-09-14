@@ -21,6 +21,7 @@ This policy covers the repository's source code, workflows, and documentation. I
 ## Disclosure
 
 Please provide as much detail as possible:
+
 - A description of the vulnerability and its impact
 - Steps to reproduce
 - Affected versions

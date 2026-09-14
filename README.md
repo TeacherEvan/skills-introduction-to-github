@@ -24,7 +24,7 @@ In this exercise, you will:
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
    <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
+      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" alt="Copy Exercise" height="25pt"/>
    </a>
 
 2. In the new tab, most of the prompts will automatically fill in for you.
@@ -40,7 +40,7 @@ In this exercise, you will:
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
    <a id="start-exercise" href="https://github.com/TeacherEvan/skills-introduction-to-github/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
+      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" alt="Start Exercise" height="25pt"/>
    </a>
 
 > [!IMPORTANT]
